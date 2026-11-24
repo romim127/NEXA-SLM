@@ -30,6 +30,21 @@ Human intent → keywords → semantic interpretation → typed IR → compatibi
 
 ## Documentation
 
+- [Master architecture](docs/architecture/MASTER_ARCHITECTURE.md)
+- [Complete project tree](docs/architecture/PROJECT_TREE.md)
+- [Module contracts](docs/architecture/MODULE_CONTRACTS.md)
+- [Data flow](docs/architecture/DATA_FLOW.md)
+- [Engineering principles](docs/governance/DEVELOPMENT_PRINCIPLES.md)
+- [Local-first AI policy](docs/governance/LOCAL_FIRST_AI_POLICY.md)
+- [Approved decisions](docs/governance/APPROVED_DECISIONS.md)
+- [Non-negotiable requirements](docs/governance/NON_NEGOTIABLE_REQUIREMENTS.md)
+- [Functional requirements](docs/requirements/FUNCTIONAL_REQUIREMENTS.md)
+- [Non-functional requirements](docs/requirements/NON_FUNCTIONAL_REQUIREMENTS.md)
+- [Traceability matrix](docs/requirements/REQUIREMENTS_TRACEABILITY.md)
+- [ADR index](docs/decisions/README.md)
+- [Implementation status](docs/development/IMPLEMENTATION_STATUS.md)
+- [Pending tasks](docs/development/PENDING_TASKS.md)
+
 - [Architecture](docs/architecture/ARCHITECTURE.md)
 - [Mandatory UX requirements](docs/ux/REQUIREMENTS.md)
 - [Security](docs/security/THREAT_MODEL.md)

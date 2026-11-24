@@ -1,0 +1,16 @@
+# Pendientes
+- [ ] Revisar y ratificar contratos de datos y stack específico.
+- [ ] Crear esquema versionado de catálogo/IR y validadores de entradas.
+- [ ] Curar catálogo y lexicon con fuentes y tests; cubrir casos web y fundamentos.
+- [ ] Implementar NLP, semantic core, compatibility, adapters, generators y explainers.
+- [ ] Validación sintáctica/semántica, reglas estáticas y evaluación de integración ScriptGuard.
+- [ ] Inicializar FastAPI/React y preservar todas las funciones pedagógicas.
+- [ ] Benchmark Qwen/Gemma u otros; elegir modelo, cuantización y runtime por evidencia.
+- [ ] Implementar retrieval, structured output, guardrails y fallback.
+- [ ] Diseñar manifiestos/licencias/hash, perfiles de hardware y distribución offline.
+- [ ] Crear install.ps1, install.sh, run.ps1, run.sh y entrypoints; todavía no existen.
+- [ ] Implementar persistencia opt-in y controles de privacidad.
+- [ ] Curar dataset, separar evaluación, investigar LoRA/QLoRA.
+- [ ] CI multiplataforma, pruebas de regresión, offline y seguridad.
+- [ ] Incorporar nuevo banner NEXA-SLM con nombre correcto; no sustituir imagen sin archivo verificado.
+- [ ] Actualizar referencias históricas a la denominación anterior sin perder trazabilidad.

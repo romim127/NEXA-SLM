@@ -1,0 +1,11 @@
+# Requisitos no negociables
+- No perder ningún módulo del árbol aprobado ni ninguna función educativa.
+- No presentar una equivalencia indirecta como nativa; distinguir lenguaje, biblioteca, framework y entorno.
+- No inventar código para una operación no soportada o desconocida.
+- No ocultar incertidumbre, ambigüedad, dependencias, alcance o validaciones no ejecutadas.
+- No ejecutar código del usuario o del modelo automáticamente.
+- No depender de inferencia remota; paquete completo capaz de funcionar offline.
+- No enviar datos sin autorización; no entrenar automáticamente con consultas.
+- No confundir documentación, scaffolding, implementación, pruebas y aprobación.
+- No cambiar requisitos o estructura silenciosamente. Registrar divergencias y pedir aprobación.
+- No depender de memoria del asistente como único registro.
