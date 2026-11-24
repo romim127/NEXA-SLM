@@ -1,0 +1,3 @@
+execute_generated_code: false
+telemetry: false
+require_model_integrity: true

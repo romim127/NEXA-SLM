@@ -1,0 +1,60 @@
+{
+  "id": "web.set_background",
+  "review_status": "draft",
+  "domain": "web",
+  "keywords": [
+    "color",
+    "fondo",
+    "página web",
+    "background"
+  ],
+  "parameters": {
+    "color": {
+      "type": "css_color",
+      "required": true
+    }
+  },
+  "implementations": [
+    {
+      "technology": "CSS",
+      "status": "NATIVE",
+      "scope": "document body",
+      "snippet": "body { background-color: #3498db; }"
+    },
+    {
+      "technology": "JavaScript",
+      "status": "RUNTIME_API_REQUIRED",
+      "dependency": "Browser DOM",
+      "scope": "document body",
+      "snippet": "document.body.style.backgroundColor = '#3498db';"
+    },
+    {
+      "technology": "React",
+      "status": "LIBRARY_REQUIRED",
+      "dependency": "React",
+      "scope": "component only",
+      "snippet": "<div style={{ backgroundColor: '#3498db' }}>Contenido</div>"
+    },
+    {
+      "technology": "Python",
+      "status": "INDIRECT",
+      "dependency": "Flask or other HTML generator",
+      "scope": "server-generated HTML"
+    },
+    {
+      "technology": "Rust",
+      "status": "INDIRECT",
+      "dependency": "WebAssembly DOM bindings or HTML generator"
+    },
+    {
+      "technology": "C",
+      "status": "UNSUPPORTED",
+      "scope": "direct browser styling"
+    },
+    {
+      "technology": "C++",
+      "status": "UNSUPPORTED",
+      "scope": "direct browser styling"
+    }
+  ]
+}

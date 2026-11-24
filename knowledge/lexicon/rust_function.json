@@ -1,0 +1,34 @@
+{
+  "review_status": "draft",
+  "snippet": "fn sumar(a: i32, b: i32) -> i32 { a + b }",
+  "tokens": [
+    [
+      "fn",
+      "Declares a function"
+    ],
+    [
+      "sumar",
+      "Function identifier"
+    ],
+    [
+      "a, b",
+      "Input parameter names"
+    ],
+    [
+      "i32",
+      "Signed 32-bit integer"
+    ],
+    [
+      "->",
+      "Introduces return type"
+    ],
+    [
+      "{ }",
+      "Function body"
+    ],
+    [
+      "a + b",
+      "Tail expression returned implicitly; overflow behavior depends on build settings"
+    ]
+  ]
+}

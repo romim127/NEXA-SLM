@@ -1,0 +1,11 @@
+# Roadmap
+- 00 Foundation and requirements
+- 01 Knowledge base and lexicon
+- 02 Keyword engine
+- 03 Semantic core and typed IR
+- 04 Compatibility and adapters
+- 05 Explanations and validation
+- 06 Local API and React UX
+- 07 Local model benchmarking, retrieval and constrained output
+- 08 Packaging, offline runtime and security integration
+- 09 Dataset, LoRA/QLoRA experiments

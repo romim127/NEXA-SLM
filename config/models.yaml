@@ -1,0 +1,7 @@
+default_provider: deterministic
+local_model:
+  enabled: false
+  path: null
+  sha256: null
+  license: null
+  candidates: [qwen, gemma]

@@ -1,0 +1,1 @@
+Explain every relevant token and instruction using verified lexicon entries. Mark unverified claims and distinguish syntax from behavior.

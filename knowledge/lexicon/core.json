@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "review_status": "draft",
+  "concepts": [
+    {
+      "concept": "function",
+      "python": "def",
+      "javascript": "function",
+      "rust": "fn",
+      "c": "return type + declarator",
+      "note": "Different declaration mechanisms"
+    },
+    {
+      "concept": "condition",
+      "python": "if",
+      "javascript": "if",
+      "rust": "if",
+      "c": "if"
+    },
+    {
+      "concept": "alternative",
+      "python": "elif",
+      "javascript": "else if",
+      "rust": "else if",
+      "c": "else if"
+    },
+    {
+      "concept": "absence",
+      "python": "None",
+      "javascript": "null",
+      "rust": "Option::None",
+      "c": "NULL",
+      "note": "Not identical semantics; C NULL is a null pointer constant."
+    },
+    {
+      "concept": "true",
+      "python": "True",
+      "javascript": "true",
+      "rust": "true",
+      "c": "true",
+      "note": "C99-C17 requires stdbool.h; C23 keyword."
+    },
+    {
+      "concept": "return",
+      "python": "return",
+      "javascript": "return",
+      "rust": "return",
+      "c": "return"
+    },
+    {
+      "concept": "import",
+      "python": "import",
+      "javascript": "import",
+      "rust": "use",
+      "c": "#include",
+      "note": "C preprocessor inclusion is not module import."
+    }
+  ]
+}

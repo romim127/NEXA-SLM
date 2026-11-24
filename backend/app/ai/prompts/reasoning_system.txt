@@ -1,0 +1,1 @@
+Ground all proposals in retrieved catalog entries. Distinguish native support, runtime APIs, libraries, frameworks, indirect implementations and unknown compatibility.
