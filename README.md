@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logos/nexa-banner.jpg"
+       alt="NEXA Semantic-Code"
+       width="100%">
+</p>
+
 # NEXA Semantic-Code ♾️
 **ONE INTENTION. MULTIPLE PROGRAMMING LANGUAGES.**
 
