@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/a_sleek_neon_tech_banner_identical_to_the_given_la.png" alt="NEXA project banner" width="100%">
+  <img src="NEXA-SLM_ Inteligencia Neón Futurista (1).png" alt="NEXA project banner" width="100%">
 </p>
 
 <h1 align="center">NEXA-SLM — Semantic Intelligence Model</h1>
