@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/nexa-banner.jpg"
+  <img src="assets/logos/a_sleek_neon_tech_banner_identical_to_the_given_la.jpg"
        alt="NEXA Semantic-Code"
        width="100%">
 </p>
